@@ -16,7 +16,7 @@ requires (*optional): <SIP number(s)>
 Add index synths for DeFi verticals 
 - DEX protocols (sDEX)
 - Lending protocols (sLEND)
-- Derivatives (sDERI)
+- Derivatives (sDERIV)
 - Structured products (sPROD)
 
 ## Motivation
